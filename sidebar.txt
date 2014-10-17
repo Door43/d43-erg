@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[erg:home|Door43 (erg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-erg|d43-erg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-erg/archive/master.zip|d43-erg.zip]]
+
+**Recent Changes**
+{{changes>ns = erg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/erg|Ethnologue data]]
+
